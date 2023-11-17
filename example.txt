@@ -1,0 +1,3 @@
+#Example file
+
+Just for test running renaming and deleting file
