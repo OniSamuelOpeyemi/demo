@@ -6,5 +6,3 @@ README shows the Intro of the project
 
 Detailed explanation
 
-This would cause a merge conflict
-
